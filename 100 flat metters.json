@@ -1,0 +1,2274 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": false,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": true,
+    "projectUuid": "7fefeff6-22f1-43ab-ad94-c55c240fb70d",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "100 flat metters",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite5.png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite5.png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite6.png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
+        "name": "NewSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Untitled.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Untitled2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Untitled3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Untitled4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ilde8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ilde8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor_dos_.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor_dos_",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor_dos_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor_dos_2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor_dos_3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor_dos_3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor_dos_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor_dos_4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/corredor6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "corredor6",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 172,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Escena_32sin_32t_237tulo",
+      "name": "Escena sin título",
+      "r": 172,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "fondo",
+      "v": 177,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.41943397827590606,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 265,
+          "keepRatio": true,
+          "layer": "",
+          "name": "corredor1",
+          "persistentUuid": "fd2147c6-675e-4e37-adea-eb2a48ea83fa",
+          "width": 245,
+          "x": 12,
+          "y": 418,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "ee1de700-8be9-4886-8efc-24c6a95e3121",
+          "width": 1354,
+          "x": -50,
+          "y": 655,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 278,
+          "keepRatio": true,
+          "layer": "",
+          "name": "corredor2",
+          "persistentUuid": "6c12545f-c173-4d0c-8fdc-a20fbace7920",
+          "width": 281,
+          "x": 14,
+          "y": 329,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 228,
+          "keepRatio": true,
+          "layer": "",
+          "name": "texto",
+          "persistentUuid": "dd352b3b-d2d1-4c2e-b516-8eb3463bac90",
+          "width": 812,
+          "x": 142,
+          "y": 124,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "piso",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 24
+                          },
+                          {
+                            "x": 59,
+                            "y": 24
+                          },
+                          {
+                            "x": 59,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "corredor1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "velocidad",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "listo_",
+              "type": "number",
+              "value": 3
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 1000,
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "ilde",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.16666666666666666,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "en_sus_marcas",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Jugador1_Pose1\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":4,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":3,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAABACAYAAABMbHjfAAAAAXNSR0IArs4c6QAABEFJREFUeF7tmz9oFEEYxecaUVAOxEPBIP4HxRRWAcVgBEWwU9IIKSUgoo12lnaKoIggKSxSSUgpiIIKGiGViGIjikgCkRPhMBCxibyRb5nb271LvMzO7H5vqr29vd1573u/2bn9UzNsdECxAzXF2imdDhgCwBCodoAAqC4/xRMAZkC1AwRAdfkpngAwA6odIACqy0/xBIAZUO0AAVBdfoonAMyAagcIgOryUzwBYAZUO0AAVJef4gkAM6DaAQKguvwUTwCYAdUOEADV5ad4AsAMqHaAAKguP8UTAGZAtQMEQHX5KZ4AMAOqHSAAqstP8QSAGVDtAAFQXX6KJwDMgGoHCIDq8lM8AWAGVDtAAFSXn+KjBWD9pn3L6fL8/vUp2v4ySuV0ILpASfDrm3d2ONr6+dUQgnIGLdZeRwUAwr9917BZbH0zG+s7rGfpZUIQa5TK2a9oAMgKfxoA+UwIyhm2GHsdNQAY/aW5ZwQCEGOUytmnqAA4PHLXfHl3205/JPzLl55aZ2v3TiUOE4Byhi3GXkcJAIyS4KdNAwgEIMYolbNPQQDIusQJ+xYeHLUu1gcOJm5uG3tmFiZP2s9YZvjLGbRYe10oABL81o8PHX4sTY8n6whArHGpXr8KAwDhzwq+WJoHQNryDWcmeC+gejkMpqgQAHqFH+oJQLAMqD6wdwBWEv6VngU4+qvOqhfxwQBoNpttghqNRttZwP7pHZ9p24aPQXjJgOqdegUgb/RPh18qAAhkOrQ4fMMu7z0wwjm/6oj6Fe8NgG5Tn14AiGTZjhD4DYHmvRMAzdWnduMFgF5/fPPOAKMX39uSvJw6YdxteAZgUn05UDgA62bvJFrmd59Plt3wYyUB8FVy7td1ICgA6MifoSvm+OjzpE8c/RnQIh0ICgDC7zaAMHV/MLn6gwVe+iwyDvqOteYAYP6Px5rdhlEdzZ3+4PORW4Pm7YvL9rvpsbnkJ+cmBxh8fVkMonhNAcgKP1R9Pnbaivs+dLNN5NbZa2bPqycWAgIQpP7qD+oVAAm+uJwFAL4DBNcHzvIMoD6OxRtQCAAIONqbq/8uc6Jh9HebCwGnQMUHQesRvQEgo79McWDw0uMLic+Y/7vTIwGA4dcaxTC6CUAY33nUSBwIAgAea0bD1SL3TCH/A3gWiCQdCrrhBQD3z6/M/3GlR6ZAvQCA74RAQfoikLgqAPJeZnd1yIvt++cf2tVZAGA9IJBt8Xnm9aMOOwhBBAmpeBdWDYDc5MLNLfc1RviEF1jcUAOCPACwfWvuY2IvfuveC5AvCEHFExhY3n8BIHd20wDkaZE3u9yrQLItIJDvCUDgNCg8fF8A1LccahvxuwGAZ3owhcqCAM8EYV9ohEBhCgNK7hsA6bs79XH1YHSXB9q6ASC/AQhpCDgNCpiQih+6bwDccKchcMMPH/MAkJti2Cb9XBDWEYCKpzCgvL8cOg1ftAn+JQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (imported)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":3,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAABACAYAAABMbHjfAAAAAXNSR0IArs4c6QAAAUxJREFUeF7t0wEBAAAIgzDfv7RBmA3gsnMMhA0szA6dgROAJ0gbEEB6fvAC8ANpAwJIzw9eAH4gbUAA6fnBC8APpA0IID0/eAH4gbQBAaTnBy8AP5A2IID0/OAF4AfSBgSQnh+8APxA2oAA0vODF4AfSBsQQHp+8ALwA2kDAkjPD14AfiBtQADp+cELwA+kDQggPT94AfiBtAEBpOcHLwA/kDYggPT84AXgB9IGBJCeH7wA/EDagADS84MXgB9IGxBAen7wAvADaQMCSM8PXgB+IG1AAOn5wQvAD6QNCCA9P3gB+IG0AQGk5wcvAD+QNiCA9PzgBeAH0gYEkJ4fvAD8QNqAANLzgxeAH0gbEEB6fvAC8ANpAwJIzw9eAH4gbUAA6fnBC8APpA0IID0/eAH4gbQBAaTnBy8AP5A2IID0/OAF4AfSBgSQnh/8AynXAEFO8/yiAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (imported)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":3,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAABACAYAAABMbHjfAAAAAXNSR0IArs4c6QAABHBJREFUeF7tmz1oFEEUxzeNKEQPxGDAIH6DoohVQDEYQVHslCAIKSUgoo02EqzsFEGxEQuLNIKkFERBRVFIJaJYGBSRBCIR4TAQsYm8lbfMjrubj90Nu/t+07h35mbm/97/t/N2bq4joBEBwxHoMKwd6UQgAABMYDoCAGA6/YgHADxgOgIAYDr9iAcAPGA6AgBgOv2IBwA8YDoCAGA6/YgHADxgOgIAYDr9iAcAPGA6AgBgOv2IBwA8YDoCAGA6/YgHADxgOgIAYDr9iAcAPGA6AgBgOv2IBwA8YDoCAGA6/YgHADxgOgIAYDr9iAcAPGA6AgBgOv2IBwA8YDoCAGA6/YgHADxgOgIAYDr9iAcAPFCLCKxcvX3On+jvX+O5/Zu7g1pEj0nWNgJq/NbaTf9paP/8GuSFAABqa43mT1zMv2FzXzDT/hZ0tjaGgv3rvBAAQPN9VEuFSeb3AdDXeSAAgFrao/mTTrv7q3J3RQCA5vvBnEIBYF//7eDLu5th+SOlj7S580/CfzvuHI1iAgDm7NF8wS4ArvF95QICADTfD41WmLTFKYKn7h4Idbd6dkX6uwefBlMjR8LXcp3H/OFK0ujIIq7SEVDjt398iM1zdnQo9hoAKp1GJreUCIj5feNrP1kA+GOtOnEv13cBrABLyR6fyRWBLPNLxwCQK7x8uMoRSDP/9PR0bNqdL4dTyyD9j7x3f54BquyUhs4tCQDf/Crdh6B76HUsKnmPQQBAQ01WVVkLvfvr/Lu6umLl0EzftWDbzv5cNb8fG54BquqWhs0rq+5PWwEEAPfBWACQViQEANAwo1VVTl4AXEgAoKpZZl6JEcgy/4qxW9FnJrecia4Hzr0Pr188PBz4KwQAYLRaRWChAIio/Tf2RNrE/NIAoFbpZrJ+BBYKwJ/ei8GhgWcxAMo0P7tAeHVZIpAGgFv+yEQEAG0CwnDPyWDvlfHowVcuitj6dEXzELwsFrA7iJ7q1AhoWSOvfQDkiy1to4MT0fWpkZ7Cja+dA4Bdb5au3De/DPj54LFo3O+912NzkPr/7fML4XsAUHp6GKDMCPjmd42v47oArB+7HL699dXjEAIAKDM79F1qBLLMLwbX9ubSv61OaQqAQiD1vzZKoFLTRedFRsA1v3vXV+NriSNjzj46Gw0t5Y/+vfytAlCm+WVwngGKzL7xvpLM797xxfy6iyN/qwDo3j8AGDdQneUvxvyi0wVAd3/WXP0UPQdQAtXZDcbmLmbW3+/umLwfqXfLHn//fjEASIdllUKUQMbMWrRc/V1vGgBu2eOO7QIg78sqoH3IuX93F6jMh2EAKNoRhvpz7/yubFkFsu7+fgmkn21PfAwv9YcvywEBABgybNFS9YiD/xve4w9Oh0Ol3f3TANCVQMol6RsAis4Y/RUaAfeMjwuB3sHnO7fjl0E6ubQjEWWUQqwAhVrCVmdZpzxb63bPe34nDQA9FCd9SPNXgiIfiAHAlmcLVZt01kcGkANveQDQ7wWSzgUVvSP0F5QcF1/8lansAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (imported)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":3,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAABACAYAAABMbHjfAAAAAXNSR0IArs4c6QAABKtJREFUeF7tnT9oFEEUhzeNKEQPxGDAIP4HRRErQTEYQVHslCAIKSUgoo02EqzsFEGxEQuLNIKkFERBRVFIJaJYGBSRBCIR4TAQsYm81bfMTnb3bndmCplvGnfvdt5kfr/3zczuzWJPQkGBiBXoibjvdB0FEgAgCaJWAACitp/OAwA5ELUCABC1/XQeAMiBqBUAgKjtp/MAQA5ErQAARG0/nQcAciBqBQAgavvpPACQA1ErAABR20/nAYAciFoBAIjafjoPAORA1AoAQNT203kAIAeiVgAAorafzgMAORC1AgAQtf10HgDIgagVAICo7afzAEAORK0AAERtP50HAHIgagUAIGr76TwAkANRKwAA/4n9y1duXbT/1F8/p/DP0T8EdBQwdHVN/NbqDUuaav/4kgCBmwMA4KZf0NqS/Os2Dibz7a9Jb2t92pZ9DARuFgCAm37Bahclvw2AngNBcxsAoLl2QWuWjf7aqDkjAEBzKwCguXZBawoAe4ZuJZ/f3kiXP7L0kbJ47nH6b8/tI1n7ANDcCgBorl3QmiYAZuLbjQoIANDcCgBorl3QmgLA7J39aRutgR1ZW/0jT5LZ8cPpuRyT/G42AICbfl5qFz3jl8AA4EXeyiAAEF7j0hY08dvf3+euWZgYzZ2bM4AdbMXxu/wW4OAhADiI51JVkt9OfI0HAC7K1qsLAPX08nJ1VfJLAzYA9n2A/hGM/u52AIC7hrUilCX/3NxcLk7vi7ElcftHX+U+YxtELekLLwYAdw1rRSgCwE5+DWhDIACQ9LXk7ngxAHSUyN8F3Y7+2mJfX19uOTQ/eDXZsn0ICPxZwv8U71HLylBV6/6yGUAAMG+MBQApQODPNWYAf1oGBcCEBAD8mQYA/rQsjVQ1+i+bvJnVm9l0OjsePvsuPX7+4FBizxAA4M80APCnpTMAEmDf9V1ZHEl+KQAQziQACKdtFrnbGeD33gvJweGnOQBI/rAGAUBYfdPoZQCYyx+5TgDQIiCMDZxIdl+eym585YDHoH4NAwC/ei6Jptua9Qtd1si5DYD8sqtlYmQ6Oz45PkDiB/IJAAIJqyO/vNRilk8Hjman3/Zey30n6/83z86nnwFAQGOM0AAQSGd75DcTX5s0AVg7eSn9ePPLRykEABDIGCssAATQ2Ux+O/ElwbW8vvj3UacUBUAhkPW/FpZAAUz6FxIAPGtblvya+LrEkWYXHp7JWpflj8Ii1yoAJL9ng5gBwglalPzmiC/Jr09x5FoFQJ/9A0A4b8oiMwN40rxO8kuTJgD69GfVlY/ZfQBLIE/GdAgDAB50Nl9g3zZzL4toLnvs5/d1AJCALIU8GFUQAgAcddX3evUFdhsAc9ljNmUCIJ/LLKAxZN+/+RSIm2FHkyqqA4CDtubIb4YRCKpGf3sJpHXb0x/SQ33zCwgczOmyKgB0KVTRZbrFwX6H99j9U+nlZaN/GQA6E8hySWIDgIM5XVYFgC6FqgJAvjMh0BG8074dexmkbZRtiWAp5GBWSVUAcNC0apdna83Ojvt3ygDQTXESQ4o9E3BD7GCaVRUAHLS0tztoKNnw5gKA/i5QtC9I2gAAB9Osqn8AeYceX9MILjkAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"corredor1\",\"corredor2\",\"corredor3\"],\"name\":\"corredor1\"}}",
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 22
+                          },
+                          {
+                            "x": 41,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "corredor2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "correr",
+              "type": "number",
+              "value": 600
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 0,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor_dos_",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor_dos_2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor_dos_3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor_dos_4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ilde",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.166667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ilde8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "preparado",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3333333333333333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "corredor6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 23
+                          },
+                          {
+                            "x": 48,
+                            "y": 64
+                          },
+                          {
+                            "x": 17,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": true,
+          "name": "texto",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "a huevo fui al cine XD",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "a huevo fui al cine XD",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "piso"
+          },
+          {
+            "objectName": "corredor1"
+          },
+          {
+            "objectName": "texto"
+          },
+          {
+            "objectName": "corredor2"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "z"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "corredor1",
+                "PlatformerObject",
+                "=",
+                "1000"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "corredor2",
+                "correr",
+                "=",
+                "Random(800)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "corredor2",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "corredor1",
+                "listo_",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "corredor2",
+                "PlatformerObject",
+                "=",
+                "corredor2.correr"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "corredor2",
+                "Animation",
+                "=",
+                "\"run\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "z"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "corredor1",
+                "Animation",
+                "=",
+                "\"run\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "z"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "corredor1",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "corredor1",
+                "Animation",
+                "=",
+                "\"ilde\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "corredor1",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "corredor1",
+                "velocidad",
+                "=",
+                "corredor1.PlatformerObject::CurrentSpeed()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "texto",
+                "Text",
+                "=",
+                "corredor1.listo_"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "z"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "corredor1",
+                "Variable",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "preparado?",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "PlatformerObject",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "corredor1",
+                "listo_",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "corredor1",
+                "Animation",
+                "=",
+                "\"en_sus_marcas\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "corredor1",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "corredor1",
+                "listo_",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "corredor1",
+                "Animation",
+                "=",
+                "\"en_sus_marcas\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "corredor1",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "corredor1",
+                "listo_",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "corredor1",
+                "Animation",
+                "=",
+                "\"en_sus_marcas\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "corredor1",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "preparado2",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "Animation",
+                    "=",
+                    "\"en_sus_marcas\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "corredor2",
+                    "Animation",
+                    "=",
+                    "\"preparado\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "listo_",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "corredor2",
+                    "Animation",
+                    "=",
+                    "\"preparado\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "corredor1",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
