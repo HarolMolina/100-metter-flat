@@ -1,1 +1,1 @@
-Simple game whith Gdevelop 5 and my cousin (nocode)
+Simple game with Gdevelop 5 and my cousin (nocode)
